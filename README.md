@@ -1,3 +1,6 @@
+# Author
+Ilan Meyer Souffir
+
 # Title: The Quest for the Magical Iterators
 
 Background Story: In the ancient kingdom of Iteratia, there exists a magical container that has the power to hold different types of mystical elements. These elements have various properties and abilities that are essential for maintaining the balance of the kingdom. Over time, the knowledge of harnessing the power of these elements was lost. It is said that three powerful iterators were created to unlock the potential of the magical container. These iterators represent different orders of traversal through the container, revealing different aspects of the mystical elements. The kingdom is now in turmoil, and the wise King seeks the help of a talented programmer to rediscover the power of these iterators.
